@@ -1,5 +1,3 @@
-# Vue 3 + Vite
+# CARE陪诊系统
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+该项目是基于Vue3+Element-Plus实现的陪诊系统的后台管理系统，在该系统中，管理者能够对于新增管理员，以及对于陪护师进行添加和删除等操作，同时，用户在移动端下单后，管理人员能够对于用户下的订单进行管理，即对订单进行确认是否完成等的操作。该项目中，使用QRcode对与后端返回的二维码进行操作，使其展现在页面。并且在路由方面，与以往的项目不同，本项目采用的是动态路由。
